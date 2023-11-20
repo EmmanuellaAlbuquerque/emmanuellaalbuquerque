@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-[![manu github stats](https://github-readme-stats-emmanuellaalbuquerque.vercel.app/api?username=emmanuellaalbuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/emmanuellaalbuquerque/github-readme-stats)
+<!-- [![manu github stats](https://github-readme-stats-emmanuellaalbuquerque.vercel.app/api?username=emmanuellaalbuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/emmanuellaalbuquerque/github-readme-stats) -->
 
 
 Hey there! 👋  I’m Emmanuella F. Albuquerque.
@@ -19,8 +19,8 @@ Hey there! 👋  I’m Emmanuella F. Albuquerque.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![React Native](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql) <br/> ![Insomnia](https://img.shields.io/badge/Insomnia-1C1E24?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-![Top Languages](https://github-readme-stats-emmanuellaalbuquerque.vercel.app/api/top-langs/?username=emmanuellaalbuquerque&theme=dark&layout=compact&langs_count=8)
+ 
+<!-- ![Top Languages](https://github-readme-stats-emmanuellaalbuquerque.vercel.app/api/top-langs/?username=emmanuellaalbuquerque&theme=dark&layout=compact&langs_count=8) -->
 
 <!-- https://github-readme-stats-emmanuellaalbuquerque.vercel.app/  -->
 <!-- https://github-readme-stats.vercel.app  -->
