@@ -1,4 +1,4 @@
-Hey there! 👋  I’m Manu.
+## Hey there! 👋  I’m Manu.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-white.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiByeD0iMjAwIiBmaWxsPSIjOTY5M0RCIi8+Cjwvc3ZnPgo=)](https://manu-portfolio-two.vercel.app)
 
