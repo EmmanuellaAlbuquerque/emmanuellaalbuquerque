@@ -1,6 +1,6 @@
 <h1> 
   <a href="https://www.linkedin.com/in/emmanuella-albuquerque/" style="color: #9693db !important; text-decoration: none; color: inherit;">
-    <span>Emmanuella Albuquerque💜</span>
+    <span>Emmanuella Albuquerque💜☕</span>
   </a>
 </h1>
 
