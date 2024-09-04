@@ -1,4 +1,4 @@
-<!--- Latex Text Formatting  -->
+<!--- Latex Text Formatting https://latex-tutorial.com/symbols/text-formatting/  -->
  # $\color{#9693db}{\textbf{Emmanuella Albuquerque}}$ 💜☕
 
 ![Manu Profile Views](https://komarev.com/ghpvc/?username=emmanuellaalbuquerque&color=9693db&style=flat-square)
