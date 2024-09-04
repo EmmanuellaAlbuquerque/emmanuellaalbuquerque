@@ -1,8 +1,5 @@
-<h1> 
-  <a href="https://www.linkedin.com/in/emmanuella-albuquerque/" style="color: #9693db !important; text-decoration: none; color: inherit;">
-    <span>Emmanuella Albuquerque💜☕</span>
-  </a>
-</h1>
+<!--- Latex Text Formatting  -->
+ # $\color{#9693db}{\textbf{Emmanuella Albuquerque}}$ 💜☕
 
 ![Manu Profile Views](https://komarev.com/ghpvc/?username=emmanuellaalbuquerque&color=9693db&style=flat-square)
 
