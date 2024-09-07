@@ -78,4 +78,4 @@
 [![Repo DIO Lab Open Source](https://github-readme-stats.vercel.app/api/pin/?username=emmanuellaalbuquerque&repo=dio-lab-open-source&bg_color=9693db&border_color=9693db&show_icons=true&icon_color=1f2023&title_color=1f2023&text_color=ffffffb3)](https://github.com/emmanuellaalbuquerque/dio-lab-open-source)
 -->
 
-Made with 💜 by [Manu](https://github.com/EmmanuellaAlbuquerque)!
+Made with 💜 by [Manu](https://www.linkedin.com/in/emmanuella-albuquerque/)!
