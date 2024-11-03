@@ -3,14 +3,12 @@
 
 ![Manu Profile Views](https://komarev.com/ghpvc/?username=emmanuellaalbuquerque&color=9693db&style=flat-square)
 
-### Olá, eu sou a Manu 👋🏽👩🏽‍💻
+Olá, 👋🏽 Eu me chamo **Manu**!
 
-- 🎓 Sou graduada em Ciência da Computação
-- 😄 Meus pronomes: Ela/Dela
-- 👩🏽‍💻 Tenho interesse em desenvolvimento backend e frontend
-- 📚 No momento estou estudando Java + Angular
+- 🎓 Sou formada em Ciência da Computação 👩🏽‍💻✨
 - :art: Prezo pela construção de interfaces centradas no usuário
 - :zap: Busco constantemente por conhecimento e aperfeiçoamento
+- 📚 No momento estou aprendendo um pouco mais sobre Java com Spring Boot ☕ e Angular 💜
 
 <details>
   <summary>🔒️ Mais sobre mim</summary>
@@ -56,18 +54,22 @@
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 #### Frontend
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
+<!---
 ### 🎯 GitHub Stats
-
+-->
 
 <!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=emmanuellaalbuquerque&theme=graywhite&background=9693db&border=9693db&dates=ffffffb3)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuellaalbuquerque&theme=transparent&bg_color=9693db&border_color=9693db&show_icons=true&icon_color=1f2023&title_color=1f2023&text_color=ffffffb3)
 -->
 
+<!---
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emmanuellaalbuquerque&layout=compact&bg_color=9693db&border_color=9693db&title_color=1f2023&text_color=ffffffb3&langs_count=8&hide=jupyter%20notebook,pov-ray%20sdl)
+-->
 
 <!---
 ### 🚀 Meus Principais Projetos Pessoais
